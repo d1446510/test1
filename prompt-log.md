@@ -67,9 +67,9 @@
 
 ## 七、網站連結
 
-* **GitHub 專案網址**：（請貼上你上傳 `prompt-log.md` 的 GitHub 檔案連結）
-* **InfinityFree 網站網址**：（請貼上你的 `xxx.infinityfree.io` 網址）
-* **Vercel 網站網址**：（請貼上你的 Vercel 部署網址）
+* **GitHub 專案網址**：https://github.com/d1446510/test1.git 
+* **InfinityFree 網站網址**：https://d144650test1.infinityfree.io/
+* **Vercel 網站網址**：https://test1-green-six-52.vercel.app/
 
 ## 八、製作工具
 
